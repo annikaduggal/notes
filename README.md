@@ -23,4 +23,4 @@ Shortcuts I use frequently
 - Command-F (search)
 - Command-C (copy)
 
-[CLI commands](cli.md)
+[CLI commands](docs/cli.md)
