@@ -18,3 +18,9 @@
 # Experiments 👩‍🔬
 🫀 💚 
 🌹 🌕
+##Keyboard Shortcuts
+Shortcuts I use frequently
+- Command-F (search)
+- Command-C (copy)
+
+[CLI commands](cli.md)
